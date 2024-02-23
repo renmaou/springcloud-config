@@ -1,1 +1,2 @@
-hello config
+config:
+  info: config-dev
